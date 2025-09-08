@@ -1,10 +1,11 @@
-<template
+<template>
+  <cookieComponent />
 </template>
 
-<style scoped>
-
-</style>
-
-<script>
-
+<script setup>
+import cookieComponent from './components/icons/cookieComponent.vue'
 </script>
+
+<style scoped></style>
+
+<script></script>
